@@ -1,5 +1,6 @@
-–?n c? con kh? cung hi?u du?c l?nh Git
-add: –ang k˝ thay d?i trong index
-commit: Luu l?i tr?ng th·i c?a index
+√ê?n c? con kh? cung hi?u du?c l?nh Git
+add: √êang k√Ω thay d?i trong index
+commit: Luu l?i tr?ng th√°i c?a index
 pull: L?y n?i dung c?a remote repository
+issue2
 issue3
